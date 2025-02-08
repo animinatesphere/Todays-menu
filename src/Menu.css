@@ -2,6 +2,7 @@
 .menu-container {
   display: grid;
   grid-template-columns: repeat(3, 3fr);
+  width: fit-content;
   gap: 20px;
   padding: 20px;
   background-color: #f4f4f4;
